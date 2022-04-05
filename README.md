@@ -8,7 +8,7 @@
 ## Ratings Service
 React front-end ratings service allowing users to view product ratings in an e-commerce store
 
-
+![FEC](https://user-images.githubusercontent.com/41309544/161863275-7c34553f-6872-4df4-a21c-13bc7c4516b3.gif)
 
 
 ## Installation
